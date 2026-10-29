@@ -1,0 +1,13 @@
+{
+  "key": "food-table",
+  "names": { "en": "Food table", "ko": "푸드 테이블" },
+  "descriptions": {
+    "en": "For food, drink and kitchen brands: warm sunset palette, friendly sans-serif, rounded buttons, cards for the terms.",
+    "ko": "식품, 음료, 주방 브랜드에 어울리는 구성: 따뜻한 선셋 색상, 친근한 산세리프, 둥근 버튼, 카드형 조건 안내."
+  },
+  "design": { "paletteKey": "sunset", "fontKey": "pretendard", "sizeKey": "M", "layoutKey": "campaign-cards", "buttonStyleKey": "pill", "accentColorHex": null },
+  "locales": {
+    "en": { "aboutHeading": "Come to our table", "metaDescription": "{{companyName}} is looking for food and kitchen creators who love to cook and share. See how to join." },
+    "ko": { "aboutHeading": "우리 식탁에 초대합니다", "metaDescription": "{{companyName}}은(는) 요리하고 나누는 걸 좋아하는 푸드, 주방 크리에이터를 찾습니다. 참여 방법을 확인하세요." }
+  }
+}

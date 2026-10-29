@@ -1,0 +1,13 @@
+{
+  "key": "outdoor-trail",
+  "names": { "en": "Outdoor trail", "ko": "아웃도어 트레일" },
+  "descriptions": {
+    "en": "For gear, sport and travel brands: green palette, a bold hero and a two-column page with the terms beside the text.",
+    "ko": "장비, 스포츠, 여행 브랜드에 어울리는 구성: 숲 색상 팔레트, 큰 히어로, 본문 옆에 조건을 놓은 두 단 페이지."
+  },
+  "design": { "paletteKey": "forest", "fontKey": "pretendard", "sizeKey": "M", "layoutKey": "hero-two-columns", "buttonStyleKey": "pill", "accentColorHex": null },
+  "locales": {
+    "en": { "aboutHeading": "Built for the trail", "metaDescription": "{{companyName}} is looking for outdoor creators who test gear in real conditions. See what we offer and how to join." },
+    "ko": { "aboutHeading": "현장에서 검증한 장비", "metaDescription": "{{companyName}}은(는) 실제 환경에서 장비를 써 보는 아웃도어 크리에이터를 찾습니다. 제공 조건과 참여 방법을 확인하세요." }
+  }
+}

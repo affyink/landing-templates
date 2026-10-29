@@ -1,0 +1,13 @@
+{
+  "key": "beauty-ritual",
+  "names": { "en": "Beauty ritual", "ko": "뷰티 리추얼" },
+  "descriptions": {
+    "en": "For beauty, care and wellness brands: soft berry palette, rounded buttons and the terms as cards.",
+    "ko": "뷰티, 케어, 웰니스 브랜드에 어울리는 구성: 부드러운 베리 색상, 둥근 버튼, 카드형 조건 안내."
+  },
+  "design": { "paletteKey": "berry", "fontKey": "serif", "sizeKey": "M", "layoutKey": "campaign-cards", "buttonStyleKey": "pill", "accentColorHex": null },
+  "locales": {
+    "en": { "aboutHeading": "A routine worth sharing", "metaDescription": "{{companyName}} invites beauty and wellness creators to share the routines they really use. See the terms and join." },
+    "ko": { "aboutHeading": "함께 나누고 싶은 루틴", "metaDescription": "{{companyName}}은(는) 직접 쓰는 루틴을 솔직하게 나눠 주실 뷰티, 웰니스 크리에이터를 초대합니다. 조건을 확인하고 참여하세요." }
+  }
+}

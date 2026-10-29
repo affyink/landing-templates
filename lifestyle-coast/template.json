@@ -1,0 +1,13 @@
+{
+  "key": "lifestyle-coast",
+  "names": { "en": "Lifestyle coast", "ko": "라이프스타일 코스트" },
+  "descriptions": {
+    "en": "For fashion, home and lifestyle brands: calm ocean palette, a hero, two columns and rounded buttons.",
+    "ko": "패션, 리빙, 라이프스타일 브랜드에 어울리는 구성: 차분한 오션 색상, 히어로, 두 단, 둥근 버튼."
+  },
+  "design": { "paletteKey": "ocean", "fontKey": "pretendard", "sizeKey": "M", "layoutKey": "hero-two-columns", "buttonStyleKey": "pill", "accentColorHex": null },
+  "locales": {
+    "en": { "aboutHeading": "Everyday style, done well", "metaDescription": "{{companyName}} invites fashion, home and lifestyle creators to share what they genuinely wear and use. Join today." },
+    "ko": { "aboutHeading": "일상의 스타일을 제대로", "metaDescription": "{{companyName}}은(는) 진짜 입고 쓰는 것을 나눠 주실 패션, 리빙, 라이프스타일 크리에이터를 초대합니다. 지금 참여하세요." }
+  }
+}

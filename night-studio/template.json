@@ -1,0 +1,13 @@
+{
+  "key": "night-studio",
+  "names": { "en": "Night studio", "ko": "나이트 스튜디오" },
+  "descriptions": {
+    "en": "For games, audio, creative tools and nightlife: a dark midnight palette with a light accent, hero and two columns.",
+    "ko": "게임, 오디오, 창작 도구, 나이트라이프에 어울리는 구성: 어두운 미드나잇 팔레트와 밝은 포인트 색, 히어로와 두 단."
+  },
+  "design": { "paletteKey": "midnight", "fontKey": "inter", "sizeKey": "M", "layoutKey": "hero-two-columns", "buttonStyleKey": "solid", "accentColorHex": null },
+  "locales": {
+    "en": { "aboutHeading": "Made for late sessions", "metaDescription": "{{companyName}} partners with creators who stream, record and make things after dark. See how to join." },
+    "ko": { "aboutHeading": "늦은 밤을 위해 만들었습니다", "metaDescription": "{{companyName}}은(는) 밤늦게 스트리밍하고, 녹음하고, 만드는 크리에이터와 함께합니다. 참여 방법을 확인하세요." }
+  }
+}

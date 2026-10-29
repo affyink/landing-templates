@@ -1,0 +1,13 @@
+{
+  "key": "tech-minimal",
+  "names": { "en": "Tech minimal", "ko": "테크 미니멀" },
+  "descriptions": {
+    "en": "For software, devices and tools: graphite palette, clean sans-serif type, square buttons, a single column.",
+    "ko": "소프트웨어, 기기, 도구에 어울리는 구성: 그래파이트 색상, 깔끔한 산세리프, 각진 버튼, 한 단 구성."
+  },
+  "design": { "paletteKey": "graphite", "fontKey": "inter", "sizeKey": "M", "layoutKey": "single-column", "buttonStyleKey": "square", "accentColorHex": null },
+  "locales": {
+    "en": { "aboutHeading": "What we build", "metaDescription": "{{companyName}} works with creators who explain tools clearly. Learn what we offer and how to apply." },
+    "ko": { "aboutHeading": "우리가 만드는 것", "metaDescription": "{{companyName}}은(는) 도구를 쉽게 설명해 주는 크리에이터와 함께합니다. 제공 내용과 지원 방법을 확인하세요." }
+  }
+}

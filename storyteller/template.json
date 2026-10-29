@@ -1,0 +1,13 @@
+{
+  "key": "storyteller",
+  "names": { "en": "Storyteller", "ko": "스토리텔러" },
+  "descriptions": {
+    "en": "A warm, editorial page for a brand with a story: serif type on a paper background, one column.",
+    "ko": "브랜드의 이야기를 차분하게 풀어 가는 페이지: 종이 질감의 배경과 세리프 글꼴, 한 단 구성."
+  },
+  "design": { "paletteKey": "paper", "fontKey": "serif", "sizeKey": "M", "layoutKey": "single-column", "buttonStyleKey": "solid", "accentColorHex": null },
+  "locales": {
+    "en": { "aboutHeading": "Our story", "metaDescription": "Why {{companyName}} exists, who we work with and what a partnership with us looks like." },
+    "ko": { "aboutHeading": "우리의 이야기", "metaDescription": "{{companyName}}이(가) 어떤 브랜드인지, 어떤 크리에이터와 함께하고 싶은지, 협업이 어떻게 진행되는지 소개합니다." }
+  }
+}
